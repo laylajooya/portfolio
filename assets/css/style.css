@@ -1,0 +1,28 @@
+/* @font-face {
+    font-family: "CircularStd-Medium";
+    src: url("/assets/css/CircularStd-Medium.otf");
+    font-style: normal;
+    font-weight: normal;
+  } */
+  
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    background-color: #FFECF0;
+    margin: 0 auto;
+    /* padding: 20px; */
+}
+
+div {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: black;
+
+}
+
