@@ -4,6 +4,7 @@ body {
     font-size: 18px;
     background-color: #fcf4ed;
     margin: 0 auto;
+    /* color: rgba(0, 0, 0, 0.87); */
     /* padding: 20px; */
 }
 
@@ -17,7 +18,7 @@ ul {
 }
 
 a {
-    color: black;
+    color: rgba(0, 0, 0, 0.87);
 }
 a.static-link {
     transition: all 0.3s;
@@ -38,11 +39,11 @@ a.static-link {
 #mood-grid {
     flex: 25%;
     max-width: 25%;
-    padding: 0 4px;
+    padding: 0px;
   }
   
  #mood-grid img {
-    margin-top: 8px;
+    margin-top: 0px;
     vertical-align: middle;
   }
   #film-grid {
